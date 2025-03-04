@@ -41,8 +41,8 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p>GitHub: <a href="https://github.com/your-github">github.com/your-github</a></p>
+        <p>Email: <a href="mailto:your-email@example.com">bwanafaustus@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/your-github">github.com/bwanafaustus</a></p>
     </section>
     <footer>
         <p>&copy; 2025 Faustus Simon Reginald. All rights reserved.</p>
